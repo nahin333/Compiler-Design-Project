@@ -1,0 +1,47 @@
+function main LP RP
+lb
+	intType  nahin_aa cm  nahin_b cm nahin_c cm nahin_c cm nahin_b ##
+	nahin_a eq 8 ##
+	nahin_b eq 4 ##
+	nahin_ad eq 8 ##
+	#++ 8 #++ ##
+	1 plus 12 divide 4 multiply 4 ##
+	18 minus 15 plus 8 divide 2 multiply 5 ##
+
+	if LP 7 less 5 RP
+		lb
+			10 ##
+		rb
+	else
+		lb
+			if LP 1 less 3 RP
+			lb
+				if LP 5 less 3 RP
+				lb
+					14 ##
+				rb
+				else
+				lb
+					13 ##
+				rb
+			rb
+			else
+			lb
+				17 ##
+			rb
+			
+		rb
+	
+		
+	lp_for LP 2 : 6 RP lb 4 plus 2 rb
+
+	lp_while LP 0 to 5 RP lb 4 plus 2 rb
+
+	switch LP 21 RP lb choose 20 : 4 plus 2 ## choose 2 : 3 plus 2 ## default : 40 ## rb                                         
+	//we try to skip this   
+	/a/Bangladesh is a beautiful
+	country
+	/a/
+
+	
+rb

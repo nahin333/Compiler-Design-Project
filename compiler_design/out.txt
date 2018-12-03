@@ -1,0 +1,42 @@
+nahin_c is already declared
+nahin_b is already declared
+
+valid declaration
+nahin_a not declared yet
+
+(nahin_b) Value of the variable: 4	
+nahin_ad not declared yet
+inc: 9
+
+value of expression: 9
+
+value of expression: 13
+
+value of expression: 23
+
+value of expression: 10
+
+value of expression: 14
+
+value of expression: 13
+
+We are in ELSE and the value is : 13
+
+value of expression: 17
+
+We are in IF: 3
+
+We are in ELSE and the value is : 10
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+While LOOP: 0 1 2 3 4 5 
+value of the expression: 6
+
+Result in default Value is :  40 
+SWITCH case.
+single line comment
+multiple_line_comment
+Successful compilation
